@@ -1,0 +1,23 @@
+@{
+  Layout = "_Layout";
+}
+<div class='container'>
+  <h1>Hair Salon: Clients</h1>
+  <hr/>
+
+  <h2>Clients</h2>
+  @if (@Model.Count == 0)
+  {
+    <h4>No clients have been added yet!</h4>
+  }
+  @foreach (var client in Model)
+  {
+    <h3><a href='/client/@client.GetClientId()'>@client.GetClient()</a></h3>
+  }
+  <a href='/stylist/new'><button class='btn'>Add Stylists</button></a>
+  <a href = '/client/new'><button class='btn'>Add New Client</button></a>
+  <a href='/stylist'><button class='btn'>View Stylists</button></a>
+  <a href = '/specialty'><button class='btn'>View Specialties</button></a>
+  <a href = '/client/delete'><button class='btn'>Delete All Clients</button></a>
+  <a href='/'><button class='btn'>Home</button></a>
+</div>

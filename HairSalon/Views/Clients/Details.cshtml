@@ -1,0 +1,31 @@
+@using HairSalon.Models;
+@{
+  Layout = "_Layout";
+}
+<h1>Clients</h1>
+<h2>Client Name: @Model["client"].GetClient()</h2>
+@if (Model["clientStylist"].Count != 0)
+{
+  <h4>Stylist List:</h4>
+  <ul>
+    @foreach (var stylist in Model["clientStylist"])
+    {
+      <li>@stylist.GetStylist()</li>
+    }
+  </ul>
+}
+<h4>Add a stylist to this client:</h4>
+<form action='/client/@Model["client"].GetClientId()' method='post'>
+  <label for='stylist-id'>Select a stylist</label>
+  <select id='stylist-id' name='stylist-id' type='text'>
+    @foreach (var stylist in @Model["allStylists"])
+    {
+      <option value='@stylist.GetStylistId()'>@stylist.GetStylist()</option>
+    }
+  </select>
+  <button type='submit'>Add</button>
+</form>
+<p><a href="/client">All Clients</a></p>
+<p><a href="/client/@Model["client"].GetClientId()/update">Edit client</a></p>
+<p><a href="/client/@Model["client"].GetClientId()/delete">Delete client</a></p>
+<p><a href="/">Home</a></p>

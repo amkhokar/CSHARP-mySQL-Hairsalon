@@ -1,0 +1,17 @@
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/obj/Debug/netcoreapp1.1/HairSalon.Tests.csprojAssemblyReference.cache
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/obj/Debug/netcoreapp1.1/HairSalon.Tests.csproj.CoreCompileInputs.cache
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/obj/Debug/netcoreapp1.1/HairSalon.Tests.AssemblyInfoInputs.cache
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/obj/Debug/netcoreapp1.1/HairSalon.Tests.AssemblyInfo.cs
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/bin/Debug/netcoreapp1.1/HairSalon.Tests.deps.json
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/bin/Debug/netcoreapp1.1/HairSalon.Tests.runtimeconfig.json
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/bin/Debug/netcoreapp1.1/HairSalon.Tests.runtimeconfig.dev.json
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/bin/Debug/netcoreapp1.1/HairSalon.Tests.dll
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/bin/Debug/netcoreapp1.1/HairSalon.Tests.pdb
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/bin/Debug/netcoreapp1.1/HairSalon.dll
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/bin/Debug/netcoreapp1.1/HairSalon.pdb
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/obj/Debug/netcoreapp1.1/HairSalon.Tests.csproj.CopyComplete
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/obj/Debug/netcoreapp1.1/HairSalon.Tests.dll
+/Users/ahmed/Desktop/HairSalon.Solution/HairSalon.Tests/obj/Debug/netcoreapp1.1/HairSalon.Tests.pdb
